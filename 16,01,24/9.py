@@ -4,4 +4,7 @@ c = (a // 10) % 10
 d = a % 10
 f = b + c
 g = c + d
-print(f, g, sep="")
+if f > g:
+    print(f, g, sep="")
+else:
+    print(g, f, sep="")
