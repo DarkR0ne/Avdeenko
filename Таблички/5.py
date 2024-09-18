@@ -7,4 +7,4 @@ for x in 0, 1:
                 f = int(f)
                 if f == 0:
                     print(f"{x}\t{y}\t{z}\t{w}\t{f}")
-#xzyw
+#zxyw

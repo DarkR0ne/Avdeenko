@@ -7,4 +7,4 @@ for w in 0, 1:
                 f = int(f)
                 if f == 0:
                     print(f"{w}\t{x}\t{y}\t{z}\t{f}")
-#zwyx
+#zywx
